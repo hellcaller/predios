@@ -25,7 +25,16 @@ public class EstudiosyConceptos {
 	private String descripcion;
 	private String versiondoc;
 	private String anexos;
+	private String rp;
 	
+
+	public String getRp() {
+		return rp;
+	}
+
+	public void setRp(String rp) {
+		this.rp = rp;
+	}
 
 	public Long getId() {
 		return id;
