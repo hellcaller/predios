@@ -25,6 +25,33 @@ public class EstudiosyConceptos {
 	private String descripcion;
 	private String versiondoc;
 	private String anexos;
+	private String r1;
+	private String r2;
+	public String getR1() {
+		return r1;
+	}
+
+	public void setR1(String r1) {
+		this.r1 = r1;
+	}
+
+	public String getR2() {
+		return r2;
+	}
+
+	public void setR2(String r2) {
+		this.r2 = r2;
+	}
+
+	public String getR3() {
+		return r3;
+	}
+
+	public void setR3(String r3) {
+		this.r3 = r3;
+	}
+
+	private String r3;
 	
 	
 
