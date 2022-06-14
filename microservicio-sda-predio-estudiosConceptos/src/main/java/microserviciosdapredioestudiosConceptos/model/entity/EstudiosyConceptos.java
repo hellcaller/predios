@@ -27,6 +27,8 @@ public class EstudiosyConceptos {
 	private String anexos;
 	private String r1;
 	private String r2;
+	private String h3;
+	
 	public String getR1() {
 		return r1;
 	}
